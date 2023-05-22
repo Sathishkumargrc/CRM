@@ -1,0 +1,9 @@
+export const IS_LOGGED_IN = "LOGGED_IN";
+export const DEV_ID = "DEV_ID";
+export const TRUE = "TRUE";
+export const USER_DETAILS = "USER";
+export const LEAVE_TYPE = "LEAVE_TYPE";
+export const DATE_OF_LEAVE = "DATE_OF_LEAVE";
+export const COMMENTS = "COMMENTS";
+export const project_id = "project_id";
+export const USER_NAME = 'USER_NAME';
